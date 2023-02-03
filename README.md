@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning DSA along with java<br>I recently completed C++ tutorial<br>I'm  curious about contributing in open source<br>I'm student of 2nd year cs branch<br><br>
+I'm currently learning DSA along with java<br>
+<br>Contributing in open source<br><br>
 
 
 ## 🌐 Socials:
